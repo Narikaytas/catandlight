@@ -1,0 +1,27 @@
+*{
+    border: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+.background{
+    background-color: black;
+   
+    
+}
+
+.displayContent img{ 
+     height: 20em;    
+} 
+ 
+.swithcCard{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 25px;
+    background: rgb(105, 152, 120);
+}
